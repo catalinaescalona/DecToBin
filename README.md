@@ -1,2 +1,2 @@
 # DecToBin
-A program to convert a number from decimal to binary
+A function that converts a positive integer from decimal to binary
